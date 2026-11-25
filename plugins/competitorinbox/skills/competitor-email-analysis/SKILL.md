@@ -1,6 +1,6 @@
 ---
 name: competitor-email-analysis
-description: "Use when the user wants to analyze, benchmark or reverse-engineer competitors' email marketing \u2014 send frequency, cadence, subject lines, welcome or cart flows, promotions, ESP or DMARC/SPF/DKIM setup \u2014 especially from emails captured in CompetitorInbox (competitorinbox.com) or forwarded from a monitoring inbox."
+description: "Use when the user wants to analyze, benchmark or reverse-engineer competitors' email marketing, send frequency, cadence, subject lines, welcome or cart flows, promotions, ESP or DMARC/SPF/DKIM setup, especially from emails captured in CompetitorInbox (competitorinbox.com) or forwarded from a monitoring inbox."
 ---
 
 # Competitor email analysis with CompetitorInbox

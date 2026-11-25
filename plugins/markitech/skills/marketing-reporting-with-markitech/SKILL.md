@@ -1,6 +1,6 @@
 ---
 name: marketing-reporting-with-markitech
-description: "Use when the user wants to pull, compare or report on marketing data across Google Ads, GA4, Google Tag Manager, Search Console, Merchant Center, Google Business Profile, DV360, BigQuery, Sheets/Docs/Slides, Facebook Pages, Instagram or WhatsApp Business \u2014 using the Markitech MCP tools when connected, or scoping the report when not."
+description: "Use when the user wants to pull, compare or report on marketing data across Google Ads, GA4, Google Tag Manager, Search Console, Merchant Center, Google Business Profile, DV360, BigQuery, Sheets/Docs/Slides, Facebook Pages, Instagram or WhatsApp Business, using the Markitech MCP tools when connected, or scoping the report when not."
 ---
 
 # Marketing reporting with Markitech

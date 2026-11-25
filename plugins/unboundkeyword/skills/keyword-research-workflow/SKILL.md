@@ -1,6 +1,6 @@
 ---
 name: keyword-research-workflow
-description: "Use when the user wants keyword research, keyword clustering, search-intent mapping, question or 'people also ask' discovery, a competitor keyword gap, or a content plan from keyword data \u2014 especially CSV exports or lists from UnboundKeyword (unboundkeyword.com) covering Google, YouTube, Amazon or TikTok."
+description: "Use when the user wants keyword research, keyword clustering, search-intent mapping, question or 'people also ask' discovery, a competitor keyword gap, or a content plan from keyword data, especially CSV exports or lists from UnboundKeyword (unboundkeyword.com) covering Google, YouTube, Amazon or TikTok."
 ---
 
 # Keyword research workflow with UnboundKeyword

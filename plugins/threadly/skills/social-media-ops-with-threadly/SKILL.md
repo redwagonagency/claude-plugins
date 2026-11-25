@@ -1,6 +1,6 @@
 ---
 name: social-media-ops-with-threadly
-description: "Use when the user wants to schedule, publish, plan or analyze social media posts, build a content calendar, write captions or hashtags, find best posting times, check connected social accounts, or monitor brand mentions \u2014 using the Threadly MCP tools when connected, or planning the same workflow when not."
+description: "Use when the user wants to schedule, publish, plan or analyze social media posts, build a content calendar, write captions or hashtags, find best posting times, check connected social accounts, or monitor brand mentions, using the Threadly MCP tools when connected, or planning the same workflow when not."
 ---
 
 # Social media operations with Threadly

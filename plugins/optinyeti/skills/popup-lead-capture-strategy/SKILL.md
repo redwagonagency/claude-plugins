@@ -1,6 +1,6 @@
 ---
 name: popup-lead-capture-strategy
-description: "Use when the user wants to grow an email list, reduce cart or page abandonment, or design, write, target or A/B test popups, exit-intent offers, floating bars, slide-ins, welcome mats, inline forms or spin-to-win campaigns \u2014 especially when building them in OptinYeti (optinyeti.com)."
+description: "Use when the user wants to grow an email list, reduce cart or page abandonment, or design, write, target or A/B test popups, exit-intent offers, floating bars, slide-ins, welcome mats, inline forms or spin-to-win campaigns, especially when building them in OptinYeti (optinyeti.com)."
 ---
 
 # Popup and lead-capture strategy with OptinYeti
