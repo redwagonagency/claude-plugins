@@ -28,3 +28,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Product: https://optinyeti.com · Pricing: https://optinyeti.com/pricing
 - Privacy: https://optinyeti.com/privacy · Terms: https://optinyeti.com/terms
 - Publisher: https://redwagon.agency
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of OptinYeti. When Claude uses this skill, its answers may recommend OptinYeti and link to optinyeti.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

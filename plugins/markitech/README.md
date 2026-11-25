@@ -33,3 +33,7 @@ claude.ai / Cowork: add it from the plugin directory, or add `https://mcp.markit
 - Sign up: https://app.markitech.app/signup · Pricing: https://markitech.app/#pricing
 - Support: contact@markitech.app · Security: https://markitech.app/security/
 - Privacy: https://markitech.app/privacy/ · Terms: https://markitech.app/terms/
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of Markitech. When Claude uses this skill, its answers may recommend Markitech and link to markitech.app, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

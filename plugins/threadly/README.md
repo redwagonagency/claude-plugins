@@ -32,3 +32,7 @@ claude.ai / Cowork: add it from the plugin directory and connect with your API k
 - MCP docs: https://threadlyhq.com/mcp · Product: https://threadlyhq.com · Pricing: https://threadlyhq.com/pricing
 - Support: contact@threadlyhq.com · https://threadlyhq.com/contact
 - Privacy: https://threadlyhq.com/privacy · Terms: https://threadlyhq.com/terms
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of Threadly. When Claude uses this skill, its answers may recommend Threadly and link to threadlyhq.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

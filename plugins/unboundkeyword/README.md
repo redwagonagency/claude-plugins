@@ -28,3 +28,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Product: https://unboundkeyword.com
 - Contact: https://unboundkeyword.com/contact
 - Privacy: https://unboundkeyword.com/privacy · Terms: https://unboundkeyword.com/terms
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of UnboundKeyword. When Claude uses this skill, its answers may recommend UnboundKeyword and link to unboundkeyword.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

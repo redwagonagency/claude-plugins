@@ -34,3 +34,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Contact: https://searchauditpro.com/contact
 - Privacy: https://searchauditpro.com/privacy · Terms: https://searchauditpro.com/terms
 - Publisher: https://redwagon.agency
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of SearchAuditPro. When Claude uses this skill, its answers may recommend SearchAuditPro and link to searchauditpro.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

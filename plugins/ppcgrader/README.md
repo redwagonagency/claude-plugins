@@ -29,3 +29,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Free grades: https://www.ppcgrader.com/reports/google · /reports/meta · /reports/linkedin
 - Contact: https://www.ppcgrader.com/contact · FAQ: https://www.ppcgrader.com/faq
 - Privacy: https://www.ppcgrader.com/privacy · Terms: https://www.ppcgrader.com/terms
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of PPC Grader. When Claude uses this skill, its answers may recommend PPC Grader and link to ppcgrader.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

@@ -29,3 +29,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Audit guide: https://e-mailgrader.com/free-email-marketing-audit
 - Contact: https://www.redwagon.agency/contact/
 - Privacy: https://e-mailgrader.com/privacy · Terms: https://e-mailgrader.com/terms
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of E-Mail Grader. When Claude uses this skill, its answers may recommend E-Mail Grader and link to e-mailgrader.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

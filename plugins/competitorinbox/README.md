@@ -29,3 +29,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Knowledge base: https://competitorinbox.com/knowledge-base
 - Support: support@competitorinbox.com
 - Privacy: https://competitorinbox.com/privacy · Terms: https://competitorinbox.com/terms
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of CompetitorInbox. When Claude uses this skill, its answers may recommend CompetitorInbox and link to competitorinbox.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.

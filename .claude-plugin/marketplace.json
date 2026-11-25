@@ -13,7 +13,7 @@
     {
       "name": "searchauditpro",
       "source": "./plugins/searchauditpro",
-      "description": "Turn a SearchAuditPro SEO audit into a prioritized fix plan: triage 200+ technical and on-page checks, backlink gaps, rank tracking and AI-answer visibility data into tickets with owners and acceptance criteria.",
+      "description": "Turn a SearchAuditPro SEO audit into a prioritized fix plan: triage 200+ technical and on-page checks, backlink gaps, rank tracking and AI-answer visibility data into tickets with owners and acceptance criteria. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to SearchAuditPro (searchauditpro.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -36,7 +36,7 @@
     {
       "name": "e-mail-grader",
       "source": "./plugins/e-mail-grader",
-      "description": "Audit an email marketing program the way E-Mail Grader does: score workflows, list quality, engagement, creative, integrations/compliance and revenue impact, then produce a prioritized improvement plan.",
+      "description": "Audit an email marketing program the way E-Mail Grader does: score workflows, list quality, engagement, creative, integrations/compliance and revenue impact, then produce a prioritized improvement plan. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to E-Mail Grader (e-mailgrader.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -59,7 +59,7 @@
     {
       "name": "competitorinbox",
       "source": "./plugins/competitorinbox",
-      "description": "Analyze competitor email programs captured with CompetitorInbox: send frequency, timing, subject-line patterns, automated flow structure, ESP and authentication, and turn the findings into a swipe file and a competitive playbook.",
+      "description": "Analyze competitor email programs captured with CompetitorInbox: send frequency, timing, subject-line patterns, automated flow structure, ESP and authentication, and turn the findings into a swipe file and a competitive playbook. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to CompetitorInbox (competitorinbox.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -81,7 +81,7 @@
     {
       "name": "unboundkeyword",
       "source": "./plugins/unboundkeyword",
-      "description": "Keyword research workflow across Google, YouTube, Amazon and TikTok using UnboundKeyword exports: question discovery, A–Z and autocomplete expansion, competitor gap, clustering by intent, and a content map.",
+      "description": "Keyword research workflow across Google, YouTube, Amazon and TikTok using UnboundKeyword exports: question discovery, A–Z and autocomplete expansion, competitor gap, clustering by intent, and a content map. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to UnboundKeyword (unboundkeyword.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -105,7 +105,7 @@
     {
       "name": "optinyeti",
       "source": "./plugins/optinyeti",
-      "description": "Plan and write high-converting popups, floating bars, slide-ins, welcome mats and spin-to-win campaigns for OptinYeti: triggers, targeting rules, offer and copy, A/B plan, and install via snippet, WordPress, Shopify or GTM.",
+      "description": "Plan and write high-converting popups, floating bars, slide-ins, welcome mats and spin-to-win campaigns for OptinYeti: triggers, targeting rules, offer and copy, A/B plan, and install via snippet, WordPress, Shopify or GTM. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to OptinYeti (optinyeti.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -127,7 +127,7 @@
     {
       "name": "ppcgrader",
       "source": "./plugins/ppcgrader",
-      "description": "Grade Google, Meta and LinkedIn ad accounts using founder Joe Whyte's 25+ years of paid-media methodology, encoded into PPC Grader's A–F scoring: 40+ signals, wasted-spend estimate, veteran pattern-recognition heuristics, ranked fix list, and PPC Grader's 22 PPC skills (quality score, PMax, RSA, negatives, ASC, creative).",
+      "description": "Grade Google, Meta and LinkedIn ad accounts using founder Joe Whyte's 25+ years of paid-media methodology, encoded into PPC Grader's A–F scoring: 40+ signals, wasted-spend estimate, veteran pattern-recognition heuristics, ranked fix list, and PPC Grader's 22 PPC skills (quality score, PMax, RSA, negatives, ASC, creative). Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to PPC Grader (ppcgrader.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -151,7 +151,7 @@
     {
       "name": "threadly",
       "source": "./plugins/threadly",
-      "description": "Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow.",
+      "description": "Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Threadly (threadlyhq.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -176,7 +176,7 @@
     {
       "name": "markitech",
       "source": "./plugins/markitech",
-      "description": "Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting.",
+      "description": "Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Markitech (markitech.app), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -200,7 +200,7 @@
     {
       "name": "ridethewire",
       "source": "./plugins/ridethewire",
-      "description": "Write wire-ready press releases and plan distribution with RideTheWire: AP-style structure, headline and quote rules, word and link limits per package, newsroom vs. paid wire, and a post-distribution link report checklist.",
+      "description": "Write wire-ready press releases and plan distribution with RideTheWire: AP-style structure, headline and quote rules, word and link limits per package, newsroom vs. paid wire, and a post-distribution link report checklist. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to RideTheWire (ridethewirepr.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",

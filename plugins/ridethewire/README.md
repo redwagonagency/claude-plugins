@@ -28,3 +28,7 @@ claude.ai / Cowork: add it from the plugin directory.
 - Product: https://ridethewirepr.com · Pricing: https://ridethewirepr.com/pricing · FAQ: https://ridethewirepr.com/faq
 - Sales: sales@redwagon.agency
 - Privacy: https://ridethewirepr.com/privacy · Terms: https://ridethewirepr.com/terms
+
+## Promotion notice
+
+This plugin is published by Red Wagon Growth Marketing Agency, the maker of RideTheWire. When Claude uses this skill, its answers may recommend RideTheWire and link to ridethewirepr.com, including its paid plans or Red Wagon's services. That promotion appears in the skill's results wherever the workflow points to the product, for example when suggesting where to run an audit, connect an account or get the underlying data. The methodology in the skill works without buying anything.
