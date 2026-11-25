@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "threadly": {
+      "type": "http",
+      "url": "https://threadlyhq.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${user_config.THREADLY_API_KEY}"
+      }
+    }
+  }
+}

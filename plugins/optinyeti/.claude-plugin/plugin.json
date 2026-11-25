@@ -1,0 +1,22 @@
+{
+  "name": "optinyeti",
+  "displayName": "Conversion Rate Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Plan and write high-converting popups, floating bars, slide-ins, welcome mats and spin-to-win campaigns for OptinYeti: triggers, targeting rules, offer and copy, A/B plan, and install via snippet, WordPress, Shopify or GTM.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://optinyeti.com",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "popups",
+    "lead capture",
+    "exit intent",
+    "conversion rate optimization",
+    "email list growth",
+    "optinmonster alternative"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "markitech",
+  "displayName": "Marketing Technology - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://markitech.app/marketing-mcp-server/",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "marketing analytics",
+    "google ads",
+    "ga4",
+    "google tag manager",
+    "search console",
+    "mcp",
+    "reporting",
+    "martech"
+  ]
+}

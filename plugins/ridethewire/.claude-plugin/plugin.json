@@ -1,0 +1,23 @@
+{
+  "name": "ridethewire",
+  "displayName": "PR & Press Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Write wire-ready press releases and plan distribution with RideTheWire: AP-style structure, headline and quote rules, word and link limits per package, newsroom vs. paid wire, and a post-distribution link report checklist.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://ridethewirepr.com",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "press release",
+    "pr distribution",
+    "newswire",
+    "media relations",
+    "ap style",
+    "product launch",
+    "newsroom"
+  ]
+}

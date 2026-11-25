@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "markitech": {
+      "type": "http",
+      "url": "https://mcp.markitech.app/mcp"
+    }
+  }
+}

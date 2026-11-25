@@ -1,0 +1,24 @@
+{
+  "name": "unboundkeyword",
+  "displayName": "Keyword Research Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Keyword research workflow across Google, YouTube, Amazon and TikTok using UnboundKeyword exports: question discovery, A–Z and autocomplete expansion, competitor gap, clustering by intent, and a content map.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://unboundkeyword.com",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "keyword research",
+    "seo",
+    "content strategy",
+    "search intent",
+    "question keywords",
+    "competitor gap",
+    "youtube seo",
+    "amazon seo"
+  ]
+}

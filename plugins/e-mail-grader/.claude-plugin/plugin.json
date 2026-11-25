@@ -1,0 +1,23 @@
+{
+  "name": "e-mail-grader",
+  "displayName": "Email Marketing Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Audit an email marketing program the way E-Mail Grader does: score workflows, list quality, engagement, creative, integrations/compliance and revenue impact, then produce a prioritized improvement plan.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://e-mailgrader.com",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "email marketing",
+    "email audit",
+    "deliverability",
+    "automation",
+    "list hygiene",
+    "klaviyo",
+    "mailchimp"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "competitorinbox",
+  "displayName": "Competitor Intelligence Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Analyze competitor email programs captured with CompetitorInbox: send frequency, timing, subject-line patterns, automated flow structure, ESP and authentication, and turn the findings into a swipe file and a competitive playbook.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://competitorinbox.com",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "competitive intelligence",
+    "email marketing",
+    "competitor emails",
+    "subject lines",
+    "email flows",
+    "esp detection"
+  ]
+}

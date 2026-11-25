@@ -1,0 +1,34 @@
+{
+  "name": "threadly",
+  "displayName": "Social Media Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow.",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://threadlyhq.com/mcp",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "scheduling",
+    "mcp",
+    "instagram",
+    "linkedin",
+    "facebook",
+    "tiktok",
+    "content calendar",
+    "social analytics"
+  ],
+  "userConfig": {
+    "THREADLY_API_KEY": {
+      "type": "string",
+      "title": "Threadly API key",
+      "description": "Generate one in Threadly under Settings → API. Used as a Bearer token for https://threadlyhq.com/api/mcp.",
+      "required": true,
+      "sensitive": true
+    }
+  }
+}

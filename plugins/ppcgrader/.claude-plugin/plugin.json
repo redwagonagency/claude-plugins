@@ -1,0 +1,24 @@
+{
+  "name": "ppcgrader",
+  "displayName": "PPC Master - JOE WHYTE SKILL",
+  "version": "1.0.0",
+  "description": "Grade Google, Meta and LinkedIn ad accounts using founder Joe Whyte's 25+ years of paid-media methodology, encoded into PPC Grader's A–F scoring: 40+ signals, wasted-spend estimate, veteran pattern-recognition heuristics, ranked fix list, and PPC Grader's 22 PPC skills (quality score, PMax, RSA, negatives, ASC, creative).",
+  "author": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "homepage": "https://ppcgrader.com",
+  "repository": "https://github.com/redwagonagency/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ppc",
+    "google ads",
+    "meta ads",
+    "linkedin ads",
+    "paid media audit",
+    "wasted spend",
+    "performance max",
+    "quality score"
+  ]
+}

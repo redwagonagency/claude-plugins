@@ -1,0 +1,224 @@
+{
+  "name": "redwagon",
+  "owner": {
+    "name": "Red Wagon Growth Marketing Agency",
+    "email": "joe@redwagon.agency",
+    "url": "https://redwagon.agency"
+  },
+  "metadata": {
+    "description": "Claude plugins for Red Wagon's marketing tools: SEO audits, email audits, competitor email intelligence, keyword research, popups, PPC grading, social scheduling, marketing data and press distribution.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "searchauditpro",
+      "source": "./plugins/searchauditpro",
+      "description": "Turn a SearchAuditPro SEO audit into a prioritized fix plan: triage 200+ technical and on-page checks, backlink gaps, rank tracking and AI-answer visibility data into tickets with owners and acceptance criteria.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://searchauditpro.com",
+      "category": "marketing",
+      "keywords": [
+        "seo",
+        "site audit",
+        "backlinks",
+        "rank tracking",
+        "technical seo",
+        "core web vitals",
+        "ai visibility"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "e-mail-grader",
+      "source": "./plugins/e-mail-grader",
+      "description": "Audit an email marketing program the way E-Mail Grader does: score workflows, list quality, engagement, creative, integrations/compliance and revenue impact, then produce a prioritized improvement plan.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://e-mailgrader.com",
+      "category": "marketing",
+      "keywords": [
+        "email marketing",
+        "email audit",
+        "deliverability",
+        "automation",
+        "list hygiene",
+        "klaviyo",
+        "mailchimp"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "competitorinbox",
+      "source": "./plugins/competitorinbox",
+      "description": "Analyze competitor email programs captured with CompetitorInbox: send frequency, timing, subject-line patterns, automated flow structure, ESP and authentication, and turn the findings into a swipe file and a competitive playbook.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://competitorinbox.com",
+      "category": "marketing",
+      "keywords": [
+        "competitive intelligence",
+        "email marketing",
+        "competitor emails",
+        "subject lines",
+        "email flows",
+        "esp detection"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "unboundkeyword",
+      "source": "./plugins/unboundkeyword",
+      "description": "Keyword research workflow across Google, YouTube, Amazon and TikTok using UnboundKeyword exports: question discovery, A–Z and autocomplete expansion, competitor gap, clustering by intent, and a content map.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://unboundkeyword.com",
+      "category": "marketing",
+      "keywords": [
+        "keyword research",
+        "seo",
+        "content strategy",
+        "search intent",
+        "question keywords",
+        "competitor gap",
+        "youtube seo",
+        "amazon seo"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "optinyeti",
+      "source": "./plugins/optinyeti",
+      "description": "Plan and write high-converting popups, floating bars, slide-ins, welcome mats and spin-to-win campaigns for OptinYeti: triggers, targeting rules, offer and copy, A/B plan, and install via snippet, WordPress, Shopify or GTM.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://optinyeti.com",
+      "category": "marketing",
+      "keywords": [
+        "popups",
+        "lead capture",
+        "exit intent",
+        "conversion rate optimization",
+        "email list growth",
+        "optinmonster alternative"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "ppcgrader",
+      "source": "./plugins/ppcgrader",
+      "description": "Grade Google, Meta and LinkedIn ad accounts using founder Joe Whyte's 25+ years of paid-media methodology, encoded into PPC Grader's A–F scoring: 40+ signals, wasted-spend estimate, veteran pattern-recognition heuristics, ranked fix list, and PPC Grader's 22 PPC skills (quality score, PMax, RSA, negatives, ASC, creative).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://ppcgrader.com",
+      "category": "marketing",
+      "keywords": [
+        "ppc",
+        "google ads",
+        "meta ads",
+        "linkedin ads",
+        "paid media audit",
+        "wasted spend",
+        "performance max",
+        "quality score"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "threadly",
+      "source": "./plugins/threadly",
+      "description": "Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://threadlyhq.com/mcp",
+      "category": "marketing",
+      "keywords": [
+        "social media",
+        "scheduling",
+        "mcp",
+        "instagram",
+        "linkedin",
+        "facebook",
+        "tiktok",
+        "content calendar",
+        "social analytics"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "markitech",
+      "source": "./plugins/markitech",
+      "description": "Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://markitech.app/marketing-mcp-server/",
+      "category": "marketing",
+      "keywords": [
+        "marketing analytics",
+        "google ads",
+        "ga4",
+        "google tag manager",
+        "search console",
+        "mcp",
+        "reporting",
+        "martech"
+      ],
+      "license": "MIT"
+    },
+    {
+      "name": "ridethewire",
+      "source": "./plugins/ridethewire",
+      "description": "Write wire-ready press releases and plan distribution with RideTheWire: AP-style structure, headline and quote rules, word and link limits per package, newsroom vs. paid wire, and a post-distribution link report checklist.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Red Wagon Growth Marketing Agency",
+        "email": "joe@redwagon.agency",
+        "url": "https://redwagon.agency"
+      },
+      "homepage": "https://ridethewirepr.com",
+      "category": "marketing",
+      "keywords": [
+        "press release",
+        "pr distribution",
+        "newswire",
+        "media relations",
+        "ap style",
+        "product launch",
+        "newsroom"
+      ],
+      "license": "MIT"
+    }
+  ]
+}
