@@ -1,4 +1,6 @@
-# UnboundKeyword for Claude
+# UnboundKeyword
+
+**Keyword Research Master - JOE WHYTE SKILL**
 
 A keyword-research workflow for data from [UnboundKeyword](https://unboundkeyword.com): clean, label intent, cluster, map to content and prioritize.
 

@@ -1,4 +1,6 @@
-# RideTheWire for Claude
+# RideTheWire
+
+**PR & Press Master - JOE WHYTE SKILL**
 
 Writes wire-ready press releases and plans distribution through [RideTheWire](https://ridethewirepr.com).
 

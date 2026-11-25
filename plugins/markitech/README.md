@@ -1,4 +1,6 @@
-# Markitech for Claude
+# Markitech
+
+**Marketing Technology - JOE WHYTE SKILL**
 
 Connects Claude to the [Markitech](https://markitech.app) marketing MCP server and adds a skill for cross-platform marketing reporting.
 

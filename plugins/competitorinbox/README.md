@@ -1,4 +1,6 @@
-# CompetitorInbox for Claude
+# CompetitorInbox
+
+**Competitor Intelligence Master - JOE WHYTE SKILL**
 
 Analyzes competitor email programs captured with [CompetitorInbox](https://competitorinbox.com) and turns them into a scorecard, swipe file and playbook.
 

@@ -1,4 +1,6 @@
-# E-Mail Grader for Claude
+# E-Mail Grader
+
+**Email Marketing Master - JOE WHYTE SKILL**
 
 Runs an email-marketing program audit the way [E-Mail Grader](https://e-mailgrader.com) does, and turns an existing E-Mail Grader score into a prioritized plan.
 

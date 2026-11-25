@@ -1,4 +1,6 @@
-# SearchAuditPro for Claude
+# SearchAuditPro
+
+**SEO Master - JOE WHYTE SKILL**
 
 Turns a [SearchAuditPro](https://searchauditpro.com) site audit into a prioritized, ticket-ready SEO fix plan.
 

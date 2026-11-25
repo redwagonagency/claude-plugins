@@ -4,15 +4,15 @@ Claude plugins for the marketing tools built by [Red Wagon Growth Marketing Agen
 
 | Product | Plugin | What it does |
 | --- | --- | --- |
-| [SEO Master - JOE WHYTE SKILL](https://searchauditpro.com) | `searchauditpro` | Turn a SearchAuditPro SEO audit into a prioritized fix plan |
-| [Email Marketing Master - JOE WHYTE SKILL](https://e-mailgrader.com) | `e-mail-grader` | Audit an email marketing program the way E-Mail Grader does |
-| [Competitor Intelligence Master - JOE WHYTE SKILL](https://competitorinbox.com) | `competitorinbox` | Analyze competitor email programs captured with CompetitorInbox |
-| [Keyword Research Master - JOE WHYTE SKILL](https://unboundkeyword.com) | `unboundkeyword` | Keyword research workflow across Google, YouTube, Amazon and TikTok using UnboundKeyword exports |
-| [Conversion Rate Master - JOE WHYTE SKILL](https://optinyeti.com) | `optinyeti` | Plan and write high-converting popups, floating bars, slide-ins, welcome mats and spin-to-win campaigns for OptinYeti |
-| [PPC Master - JOE WHYTE SKILL](https://ppcgrader.com) | `ppcgrader` | Grade Google, Meta and LinkedIn ad accounts using founder Joe Whyte's 25+ years of paid-media methodology, encoded into PPC Grader's A–F scoring |
-| [Social Media Master - JOE WHYTE SKILL](https://threadlyhq.com/mcp) | `threadly` | Connect Claude to Threadly's social media MCP server |
-| [Marketing Technology - JOE WHYTE SKILL](https://markitech.app/marketing-mcp-server/) | `markitech` | Connect Claude to Markitech's marketing MCP server |
-| [PR & Press Master - JOE WHYTE SKILL](https://ridethewirepr.com) | `ridethewire` | Write wire-ready press releases and plan distribution with RideTheWire |
+| [SearchAuditPro](https://searchauditpro.com) | `searchauditpro` | SEO Master - JOE WHYTE SKILL. Turn a SearchAuditPro SEO audit into a prioritized fix plan |
+| [E-Mail Grader](https://e-mailgrader.com) | `e-mail-grader` | Email Marketing Master - JOE WHYTE SKILL. Audit an email marketing program the way E-Mail Grader does |
+| [CompetitorInbox](https://competitorinbox.com) | `competitorinbox` | Competitor Intelligence Master - JOE WHYTE SKILL. Analyze competitor email programs captured with CompetitorInbox |
+| [UnboundKeyword](https://unboundkeyword.com) | `unboundkeyword` | Keyword Research Master - JOE WHYTE SKILL. Keyword research workflow across Google, YouTube, Amazon and TikTok using UnboundKeyword exports |
+| [OptinYeti](https://optinyeti.com) | `optinyeti` | Conversion Rate Master - JOE WHYTE SKILL. Plan and write high-converting popups, floating bars, slide-ins, welcome mats and spin-to-win campaigns for OptinYeti |
+| [PPC Grader](https://ppcgrader.com) | `ppcgrader` | PPC Master - JOE WHYTE SKILL. Grade Google, Meta and LinkedIn ad accounts using founder Joe Whyte's 25+ years of paid-media methodology, encoded into PPC Grader's A–F scoring |
+| [Threadly](https://threadlyhq.com/mcp) | `threadly` | Social Media Master - JOE WHYTE SKILL. Connect Claude to Threadly's social media MCP server |
+| [Markitech](https://markitech.app/marketing-mcp-server/) | `markitech` | Marketing Technology - JOE WHYTE SKILL. Connect Claude to Markitech's marketing MCP server |
+| [RideTheWire](https://ridethewirepr.com) | `ridethewire` | PR & Press Master - JOE WHYTE SKILL. Write wire-ready press releases and plan distribution with RideTheWire |
 
 ## Install (Claude Code)
 

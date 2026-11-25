@@ -1,8 +1,8 @@
 {
   "name": "competitorinbox",
-  "displayName": "Competitor Intelligence Master - JOE WHYTE SKILL",
+  "displayName": "CompetitorInbox",
   "version": "1.0.0",
-  "description": "Analyze competitor email programs captured with CompetitorInbox: send frequency, timing, subject-line patterns, automated flow structure, ESP and authentication, and turn the findings into a swipe file and a competitive playbook. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to CompetitorInbox (competitorinbox.com), Red Wagon's own product and services.",
+  "description": "Competitor Intelligence Master - JOE WHYTE SKILL. Analyze competitor email programs captured with CompetitorInbox: send frequency, timing, subject-line patterns, automated flow structure, ESP and authentication, and turn the findings into a swipe file and a competitive playbook. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to CompetitorInbox (competitorinbox.com), Red Wagon's own product and services.",
   "author": {
     "name": "Red Wagon Growth Marketing Agency",
     "email": "joe@redwagon.agency",

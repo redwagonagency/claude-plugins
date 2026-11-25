@@ -1,4 +1,6 @@
-# OptinYeti for Claude
+# OptinYeti
+
+**Conversion Rate Master - JOE WHYTE SKILL**
 
 Plans popup and lead-capture campaigns for [OptinYeti](https://optinyeti.com): format and trigger selection, targeting rules, offer and copy variants, measurement and installation.
 

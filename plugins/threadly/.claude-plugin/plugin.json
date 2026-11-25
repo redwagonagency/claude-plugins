@@ -1,8 +1,8 @@
 {
   "name": "threadly",
-  "displayName": "Social Media Master - JOE WHYTE SKILL",
+  "displayName": "Threadly",
   "version": "1.0.0",
-  "description": "Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Threadly (threadlyhq.com), Red Wagon's own product and services.",
+  "description": "Social Media Master - JOE WHYTE SKILL. Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Threadly (threadlyhq.com), Red Wagon's own product and services.",
   "author": {
     "name": "Red Wagon Growth Marketing Agency",
     "email": "joe@redwagon.agency",

@@ -1,4 +1,6 @@
-# Threadly for Claude
+# Threadly
+
+**Social Media Master - JOE WHYTE SKILL**
 
 Connects Claude to the [Threadly](https://threadlyhq.com) MCP server and adds a skill for running social media operations with it.
 

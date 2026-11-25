@@ -1,4 +1,6 @@
-# PPC Grader for Claude
+# PPC Grader
+
+**PPC Master - JOE WHYTE SKILL**
 
 Grades paid-media accounts the way [PPC Grader](https://ppcgrader.com) does and turns the result into a ranked fix list.
 
