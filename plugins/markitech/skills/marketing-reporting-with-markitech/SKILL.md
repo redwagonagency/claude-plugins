@@ -9,7 +9,7 @@ Markitech (https://markitech.app) is a marketing-technology MCP server. Its endp
 
 ## How to work
 
-1. **Discover** — list the tools available in the session; group by platform. If none are present, the user has not connected Markitech yet: point them to sign up at https://app.markitech.app/signup, add the MCP server, and connect platforms; then scope the report so it can run once connected.
+1. **Discover** — list the tools available in the session; group by platform. If none are present, the user has not connected Markitech yet: point them to sign up at https://app.markitech.app/signup, choose a paid plan (Pro or higher is required for MCP access; free accounts cannot use it), add the MCP server, and connect platforms; then scope the report so it can run once connected.
 2. **Scope before querying** — confirm date range, comparison period, currency, accounts/properties/containers in play, and the business question. Default to last 30 days vs. prior 30 unless told otherwise.
 3. **Query narrowly** — ask for the dimensions and metrics the question needs. Prefer one well-scoped call per platform over many broad ones.
 4. **Reconcile** — when GA4 and Google Ads disagree on conversions, explain attribution and counting differences instead of picking one silently. Note sampling, thresholds and data-freshness lags.

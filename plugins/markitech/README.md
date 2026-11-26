@@ -27,6 +27,8 @@ claude plugin install markitech@redwagon
 
 Sign in when Claude Code prompts for the server's authentication.
 
+**Requires a paid Markitech plan.** Claude (MCP) access needs the Pro plan or higher. Free Markitech accounts can sign up but cannot use the MCP server; calls return an upgrade message. Plans: https://markitech.app/#pricing
+
 claude.ai / Cowork: add it from the plugin directory, or add `https://mcp.markitech.app/mcp` as a custom connector.
 
 ## Links

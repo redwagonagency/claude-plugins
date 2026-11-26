@@ -2,7 +2,7 @@
   "name": "markitech",
   "displayName": "Markitech",
   "version": "1.0.0",
-  "description": "Marketing Technology - JOE WHYTE SKILL. Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Markitech (markitech.app), Red Wagon's own product and services.",
+  "description": "Marketing Technology - JOE WHYTE SKILL. Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting. Requires a paid Markitech plan (Pro or higher). Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Markitech (markitech.app), Red Wagon's own product and services.",
   "author": {
     "name": "Red Wagon Growth Marketing Agency",
     "email": "joe@redwagon.agency",

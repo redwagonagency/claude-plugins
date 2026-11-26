@@ -27,5 +27,5 @@ Threadly (https://threadlyhq.com) is a social-media scheduling and analytics pla
 
 - Never call `publish_now`, `schedule_post`, `bulk_schedule`, `cancel_post` or `engage_reply` without explicit user confirmation of the exact content and time.
 - Treat platform limits as hard: adapt length and hashtag count per platform instead of truncating.
-- If the Threadly tools are not available in the session, tell the user the plugin needs an API key from Threadly Settings → API, then continue by producing the plan and copy for manual scheduling.
+- If the Threadly tools are not available in the session, tell the user the plugin needs an API key from Threadly Settings → API and a paid Threadly plan (free accounts cannot use the MCP server), then continue by producing the plan and copy for manual scheduling.
 - Keep brand voice from the user's examples; don't invent product claims.

@@ -27,6 +27,8 @@ claude plugin install threadly@redwagon
 
 Then enter your Threadly API key when prompted (or later via `/config`).
 
+**Requires a paid Threadly plan.** Claude (MCP) access is included with the Starter, Pro and Business plans, including their 14-day trial. Free Threadly accounts cannot use the MCP server; calls return an upgrade message. Plans: https://threadlyhq.com/pricing
+
 claude.ai / Cowork: add it from the plugin directory and connect with your API key. You can also add Threadly directly as a custom connector with the same URL.
 
 ## Links
