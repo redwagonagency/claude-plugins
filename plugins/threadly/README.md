@@ -4,12 +4,12 @@
 
 Connects Claude to the [Threadly](https://threadlyhq.com) MCP server and adds a skill for running social media operations with it.
 
-Threadly is a social-media scheduling and analytics platform from Red Wagon. Its MCP server exposes 20+ tools: cross-platform analytics and post performance, audience insights, link analytics, scheduling and publishing (single, bulk, reschedule, cancel), caption and hashtag generation, content resizing per platform, content scoring, best-time recommendations, content-calendar planning, mention monitoring and a unified engagement inbox. Free plan available; Pro unlocks all tools.
+Threadly is a social-media scheduling and analytics platform from Red Wagon. Its MCP server exposes five tools: `get_accounts` (connected social accounts), `get_posts` (scheduled and published posts), `schedule_post`, `get_analytics` and `delete_post`. Claude writes the captions, hashtags and calendar itself and uses these tools to read your accounts and put the approved posts on the schedule.
 
 ## What this plugin does
 
 - **MCP server** — registers `https://threadlyhq.com/api/mcp` (Streamable HTTP) with a Bearer token you provide. Claude Code prompts for the key when the plugin is enabled; claude.ai and Cowork ask when you connect it. Generate a key in Threadly under **Settings → API**.
-- **Skill `social-media-ops-with-threadly`** — a tool map (read / create / write / monitor), a weekly workflow (health check → review → plan → score and time → confirm → schedule → verify) and safety rules: nothing is published or scheduled without your explicit confirmation.
+- **Skill `social-media-ops-with-threadly`** — a tool map (read / write), a weekly workflow (health check → review → plan → confirm → schedule → verify) and safety rules: nothing is scheduled or deleted without your explicit confirmation.
 
 ## What it runs, sends or fetches
 

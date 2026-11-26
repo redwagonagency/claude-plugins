@@ -151,7 +151,7 @@
     {
       "name": "threadly",
       "source": "./plugins/threadly",
-      "description": "Social Media Master - JOE WHYTE SKILL. Connect Claude to Threadly's social media MCP server: schedule and publish posts, pull cross-platform analytics, generate captions and hashtags, plan content calendars, and monitor mentions — plus a skill for running a weekly social workflow. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Threadly (threadlyhq.com), Red Wagon's own product and services.",
+      "description": "Social Media Master - JOE WHYTE SKILL. Connect Claude to Threadly's social media MCP server: see connected accounts, review scheduled and published posts, schedule posts, pull analytics and delete posts, plus a skill for planning and running a weekly social workflow. Requires a paid Threadly plan. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Threadly (threadlyhq.com), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
@@ -176,7 +176,7 @@
     {
       "name": "markitech",
       "source": "./plugins/markitech",
-      "description": "Marketing Technology - JOE WHYTE SKILL. Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting. Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Markitech (markitech.app), Red Wagon's own product and services.",
+      "description": "Marketing Technology - JOE WHYTE SKILL. Connect Claude to Markitech's marketing MCP server: 60+ read-only tools across Google Ads, GA4, Tag Manager, Search Console, Merchant Center, Business Profile, DV360, BigQuery, Sheets, Docs, Slides, Facebook Pages, Instagram and WhatsApp — plus a skill for cross-platform marketing reporting. Requires a paid Markitech plan (Pro or higher). Promotion notice: this plugin is published by Red Wagon, and its results recommend and link to Markitech (markitech.app), Red Wagon's own product and services.",
       "version": "1.0.0",
       "author": {
         "name": "Red Wagon Growth Marketing Agency",
